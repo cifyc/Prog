@@ -1,0 +1,34 @@
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/appsettings.Development.json
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/appsettings.json
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/lab 4
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/lab 4.deps.json
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/lab 4.runtimeconfig.json
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/lab 4.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/lab 4.pdb
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/Grpc.AspNetCore.Server.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/Grpc.Core.Api.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/Grpc.Net.Client.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/Grpc.Net.ClientFactory.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/bin/Debug/net8.0/Grpc.Net.Common.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.csproj.AssemblyReference.cache
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.AssemblyInfoInputs.cache
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.AssemblyInfo.cs
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.csproj.CoreCompileInputs.cache
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.MvcApplicationPartsAssemblyInfo.cache
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/staticwebassets.build.json
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/staticwebassets.development.json
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/staticwebassets/msbuild.lab 4.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/staticwebassets/msbuild.build.lab 4.props
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.lab 4.props
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.lab 4.props
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/scopedcss/bundle/lab 4.styles.css
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.csproj.Up2Date
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/refint/lab 4.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.pdb
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/lab 4.genruntimeconfig.cache
+/Users/eivan/Documents/PyCode/lab 3/lab 4/obj/Debug/net8.0/ref/lab 4.dll

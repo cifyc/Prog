@@ -1,0 +1,25 @@
+/Users/eivan/Documents/PyCode/lab 3/lab 3/bin/Debug/net8.0/appsettings.Development.json
+/Users/eivan/Documents/PyCode/lab 3/lab 3/bin/Debug/net8.0/appsettings.json
+/Users/eivan/Documents/PyCode/lab 3/lab 3/bin/Debug/net8.0/lab 3
+/Users/eivan/Documents/PyCode/lab 3/lab 3/bin/Debug/net8.0/lab 3.deps.json
+/Users/eivan/Documents/PyCode/lab 3/lab 3/bin/Debug/net8.0/lab 3.runtimeconfig.json
+/Users/eivan/Documents/PyCode/lab 3/lab 3/bin/Debug/net8.0/lab 3.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 3/bin/Debug/net8.0/lab 3.pdb
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/lab 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/lab 3.AssemblyInfoInputs.cache
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/lab 3.AssemblyInfo.cs
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/lab 3.csproj.CoreCompileInputs.cache
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/lab 3.MvcApplicationPartsAssemblyInfo.cache
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/staticwebassets.build.json
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/staticwebassets.development.json
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/staticwebassets/msbuild.lab 3.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/staticwebassets/msbuild.build.lab 3.props
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.lab 3.props
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.lab 3.props
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/scopedcss/bundle/lab 3.styles.css
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/lab 3.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/refint/lab 3.dll
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/lab 3.pdb
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/lab 3.genruntimeconfig.cache
+/Users/eivan/Documents/PyCode/lab 3/lab 3/obj/Debug/net8.0/ref/lab 3.dll
