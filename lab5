@@ -1,0 +1,109 @@
+using System;
+using System.Collections.Generic;
+
+interface IMovable
+{
+    void Move();
+}
+abstract class Bird : IMovable
+{
+    public int Age { get; set; }
+    public Bird(int age)
+    {
+        Age = age;
+    }
+    public abstract void MakeSound();
+    public abstract void Move();
+    public virtual void GetInfo()
+    {
+        Console.WriteLine($"Вік: {Age} років");
+    }
+}
+abstract class FlyingBird : Bird
+{
+    public int MaxFlightHeight { get; set; }
+    public FlyingBird(int age, int maxFlightHeight) : base(age)
+    {
+        MaxFlightHeight = maxFlightHeight;
+    }
+    public override void Move()
+    {
+        Console.WriteLine($"Летить на висоті до {MaxFlightHeight} метрів.");
+    }
+    public override void GetInfo()
+    {
+        base.GetInfo();
+        Console.WriteLine($"Максимальна висота польоту: {MaxFlightHeight} м.");
+    }
+}
+abstract class FlightlessBird : Bird
+{
+    public int RunningSpeed { get; set; }
+    public FlightlessBird(int age, int runningSpeed) : base(age)
+    {
+        RunningSpeed = runningSpeed;
+    }
+    public override void Move()
+    {
+        Console.WriteLine($"Біжить зі швидкістю {RunningSpeed} км/год.");
+    }
+    public override void GetInfo()
+    {
+        base.GetInfo();
+        Console.WriteLine($"Швидкість бігу: {RunningSpeed} км/год.");
+    }
+}
+class Eagle : FlyingBird
+{
+    public Eagle(int age, int maxFlightHeight) : base(age, maxFlightHeight) { }
+
+    public override void MakeSound()
+    {
+        Console.WriteLine("Криии!");
+    }
+}
+class Parrot : FlyingBird
+{
+    public Parrot(int age, int maxFlightHeight) : base(age, maxFlightHeight) { }
+
+    public override void MakeSound()
+    {
+        Console.WriteLine("Кар!");
+    }
+}
+class Ostrich : FlightlessBird
+{
+    public Ostrich(int age, int runningSpeed) : base(age, runningSpeed) { }
+    public override void MakeSound()
+    {
+        Console.WriteLine("Бум-бум!");
+    }
+}
+class Penguin : FlightlessBird
+{
+    public Penguin(int age, int runningSpeed) : base(age, runningSpeed) { }
+    public override void MakeSound()
+    {
+        Console.WriteLine("Га-га!");
+    }
+}
+class Program
+{
+    static void Main()
+    {
+        List<Bird> birds = new List<Bird>
+        {
+            new Eagle(5, 3000),
+            new Parrot(2, 100),
+            new Ostrich(4, 70),
+            new Penguin(3, 20)
+        };
+        foreach (var bird in birds)
+        {
+            Console.WriteLine("-----");
+            bird.GetInfo();
+            bird.MakeSound();
+            bird.Move();
+        }
+    }
+}
